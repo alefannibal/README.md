@@ -7,4 +7,5 @@
   <h4> Gustavo Cordeiro de Almeida - RA: 822154494 </h4>
   <h4> Ingrid Ribeiro Pereira - RA: 822145390 </h4>
   <h4> Patrícia Cristina de Souza Serrano - RA: 822141077 </h4>
+  <h4> Paulo Henrique Augusto - RA: 821250399 </h4>
 </div>
